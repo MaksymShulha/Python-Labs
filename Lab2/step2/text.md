@@ -64,7 +64,7 @@
 	python3 manage.py runserver
 	```
 
-::startApplication{port="8000" display="internal" name="Launch Application" route="/onlinecourse"}
+[Launch Application]({{TRAFFIC_HOST1_8000}}/onlinecourse)
 
 12. It will look like the image below:
 

@@ -1,0 +1,57 @@
+{
+  "title": "Final Project: Add a New Assessment Feature to an Online Course Application",
+  "description": "Implement a course assessment feature in a Django online course application.",
+  "time": "90 mins",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Working with Files in Cloud IDE",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "Set-up: Create an Application",
+        "text": "step2/text.md"
+      },
+      {
+        "title": "Working with a Git Repo",
+        "text": "step3/text.md"
+      },
+      {
+        "title": "Task 1: Build New Models",
+        "text": "step4/text.md"
+      },
+      {
+        "title": "Task 2: Register Model Changes",
+        "text": "step5/text.md"
+      },
+      {
+        "title": "Task 3: Update the Course Detail Template",
+        "text": "step6/text.md"
+      },
+      {
+        "title": "Task 4: Test Data",
+        "text": "step7/text.md"
+      },
+      {
+        "title": "Task 5: Submission Evaluation",
+        "text": "step8/text.md"
+      },
+      {
+        "title": "Task 6: Complete the Exam Result Template to Show Exam Submission Results",
+        "text": "step9/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "interface": {
+    "layout": "ide"
+  }
+}
